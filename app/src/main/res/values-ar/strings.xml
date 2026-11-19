@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">القرآن الكريم</string>
+    <string name="continue_reading">متابعة القراءة</string>
+    <string name="surah_index">فهرس السور</string>
+    <string name="juz_index">الأجزاء والأحزاب</string>
+    <string name="bookmarks">العلامات المحفوظة</string>
+    <string name="settings">الإعدادات</string>
+    <string name="dark_mode">الوضع الليلي</string>
+    <string name="light_mode">الوضع النهاري</string>
+    <string name="page">صفحة</string>
+    <string name="ayahs">آياتها</string>
+    <string name="makkah">مكية</string>
+    <string name="madinah">مدنية</string>
+    <string name="juz">الجزء</string>
+    <string name="no_bookmarks">لا توجد علامات محفوظة</string>
+</resources>
